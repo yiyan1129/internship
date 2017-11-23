@@ -9,16 +9,16 @@ mission2-1.php ~ mission2-15.php
 
 課題3
 
-toppage.php
+toppage.php　トップページ
 
-mailform.php
+mailform.php　仮登録用フォームページ
 
-register.php
+register.php　仮登録メール送信ページ
 
-confirm.php
+confirm.php　本登録確認ページ
 
-keijiban.php
+keijiban.php　掲示板ページ
 
-image_display.php
+image_display.php　画像表示ページ
 
-video_display.php
+video_display.php　動画表示ページ
